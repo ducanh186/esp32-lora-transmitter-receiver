@@ -170,4 +170,5 @@ This project is released under the **MIT License** – see `LICENSE` for details
 
 *Created for educational and research purposes in long-range IoT communication.*
 ```
-
+> This is an assignment for the course "Embedded system and interface". I am testing the communication capabilities of LoRa with multiple test cases. Test cases will be updated soon.
+```
